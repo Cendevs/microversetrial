@@ -1,0 +1,33 @@
+#main{
+    margin: auto;
+    background-color: blueviolet;
+    padding: 5em
+}
+
+#title{
+    text-align: center;
+    color: red;
+    font-size: 4rem;
+}
+#img-div{
+    width: 100%;
+    text-align: center;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+}
+
+#tribute-info{
+    margin-top: 3em;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: crimson;
+    font-size: 1.5rem;
+}
